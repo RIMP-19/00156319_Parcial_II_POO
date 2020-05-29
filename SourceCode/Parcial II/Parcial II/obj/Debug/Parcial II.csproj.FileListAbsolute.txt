@@ -1,0 +1,44 @@
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Parcial_II.exe.config
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Parcial_II.exe
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Parcial_II.pdb
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial II.csprojAssemblyReference.cache
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.Properties.Resources.resources
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial II.csproj.GenerateResource.cache
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial II.csproj.CoreCompileInputs.cache
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.exe
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.pdb
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.WinForms.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.Wpf.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.pdb
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.WinForms.pdb
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.WinForms.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.Wpf.pdb
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\LiveCharts.Wpf.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.Vista.LogIn.resources
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial II.csproj.CopyComplete
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Npgsql.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Buffers.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Memory.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Numerics.Vectors.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Text.Encodings.Web.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Text.Json.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.ValueTuple.dll
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Npgsql.pdb
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\Npgsql.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Buffers.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Memory.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Numerics.Vectors.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Text.Encodings.Web.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Text.Json.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\bin\Debug\System.ValueTuple.xml
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.exe.config
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.Vista.FrmMainMenu.resources
+E:\POO\00156319_Parcial_II_POO\SourceCode\Parcial II\Parcial II\obj\Debug\Parcial_II.Vista.NormalUser.resources
